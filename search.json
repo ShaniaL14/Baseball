@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Baseball, by the Numbers",
+    "section": "",
+    "text": "Welcome to a data-driven exploration of Major League Baseball history. Using the Lahman database, this site shows how the apparent home-run collapses of shortened seasons become much less dramatic when measured as home runs per team-game rather than raw totals.\nThe site also highlights baseball’s career home-run leaders and takes a closer look at Barry Bonds’s season-by-season record. Use the analysis pages in the navbar to explore the numbers and the players behind them."
+  },
+  {
+    "objectID": "home-runs.html",
+    "href": "home-runs.html",
+    "title": "Home runs",
+    "section": "",
+    "text": "# A tibble: 4 × 5\n  yearID total_home_runs total_team_games home_runs_per_game season_type     \n   &lt;int&gt;           &lt;int&gt;            &lt;int&gt;              &lt;dbl&gt; &lt;chr&gt;           \n1   1981            1781             2788              0.639 Shortened season\n2   1994            3306             3200              1.03  Shortened season\n3   2019            6776             4858              1.39  Regular season  \n4   2020            2304             1796              1.28  Shortened season\n\n\n\n\nWarning: Removed 1 row containing missing values or values outside the scale range\n(`geom_point()`)."
+  }
+]

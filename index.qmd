@@ -1,5 +1,5 @@
 ---
-title: "Baseball"
+title: "Baseball, by the Numbers"
 ---
 
-# Baseball
+Welcome to a data-driven exploration of the history of Major League Baseball. Using the Lahman database, this site looks for the stories, patterns, and players that have shaped the game.

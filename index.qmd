@@ -2,4 +2,6 @@
 title: "Baseball, by the Numbers"
 ---
 
-Welcome to a data-driven exploration of the history of Major League Baseball. Using the Lahman database, this site looks for the stories, patterns, and players that have shaped the game.
+Welcome to a data-driven exploration of Major League Baseball history. Using the Lahman database, this site shows how the apparent home-run collapses of shortened seasons become much less dramatic when measured as home runs per team-game rather than raw totals.
+
+The site also highlights baseball's career home-run leaders and takes a closer look at Barry Bonds's season-by-season record. Use the analysis pages in the navbar to explore the numbers and the players behind them.

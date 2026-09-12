@@ -3,11 +3,13 @@ title: "Home runs"
 ---
 
 ```{r}
-#| cache: true
 #| message: false
 library(tidyverse)
 library(Lahman)
+```
 
+```{r}
+#| cache: true
 shortened_seasons <- c(1918, 1919, 1981, 1994, 1995, 2020)
 
 hr_by_season <- Teams |>

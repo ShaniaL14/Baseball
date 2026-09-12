@@ -7,6 +7,8 @@ website:
     left:
       - href: home-runs.qmd
         text: "Home runs"
+      - href: sluggers.qmd
+        text: "Sluggers"
 
 execute:
   echo: false
